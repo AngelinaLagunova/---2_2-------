@@ -1,0 +1,18 @@
+.task{
+  display: grid;
+  margin: 0 auto;
+  width: 340px;
+  }
+
+img {
+  margin: 0 auto;
+  width: 340px;
+}
+
+.error {
+  border: solid thin red;
+}
+
+.error2 {
+  color:red;
+}
