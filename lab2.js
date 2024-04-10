@@ -34,7 +34,7 @@ function calculate(data) {
         if (data.task2.checked) { 
             let p = (a + b*2)/2;
             let hB = Math.sin(3.14 * A/180)*b;
-            let S = hB*a/2;
+            let S = hB*a;
             let r = S/p;
         
             print('r', r, output);
